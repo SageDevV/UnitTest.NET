@@ -1,0 +1,16 @@
+C:\Workspace.NET\UnitTest\Alura.Estacionamento\bin\Debug\net5.0\Console.exe
+C:\Workspace.NET\UnitTest\Alura.Estacionamento\bin\Debug\net5.0\Console.deps.json
+C:\Workspace.NET\UnitTest\Alura.Estacionamento\bin\Debug\net5.0\Console.runtimeconfig.json
+C:\Workspace.NET\UnitTest\Alura.Estacionamento\bin\Debug\net5.0\Console.runtimeconfig.dev.json
+C:\Workspace.NET\UnitTest\Alura.Estacionamento\bin\Debug\net5.0\Console.dll
+C:\Workspace.NET\UnitTest\Alura.Estacionamento\bin\Debug\net5.0\Console.pdb
+C:\Workspace.NET\UnitTest\Alura.Estacionamento\obj\Debug\net5.0\Console.csproj.AssemblyReference.cache
+C:\Workspace.NET\UnitTest\Alura.Estacionamento\obj\Debug\net5.0\Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace.NET\UnitTest\Alura.Estacionamento\obj\Debug\net5.0\Console.AssemblyInfoInputs.cache
+C:\Workspace.NET\UnitTest\Alura.Estacionamento\obj\Debug\net5.0\Console.AssemblyInfo.cs
+C:\Workspace.NET\UnitTest\Alura.Estacionamento\obj\Debug\net5.0\Console.csproj.CoreCompileInputs.cache
+C:\Workspace.NET\UnitTest\Alura.Estacionamento\obj\Debug\net5.0\Console.dll
+C:\Workspace.NET\UnitTest\Alura.Estacionamento\obj\Debug\net5.0\refint\Console.dll
+C:\Workspace.NET\UnitTest\Alura.Estacionamento\obj\Debug\net5.0\Console.pdb
+C:\Workspace.NET\UnitTest\Alura.Estacionamento\obj\Debug\net5.0\Console.genruntimeconfig.cache
+C:\Workspace.NET\UnitTest\Alura.Estacionamento\obj\Debug\net5.0\ref\Console.dll
